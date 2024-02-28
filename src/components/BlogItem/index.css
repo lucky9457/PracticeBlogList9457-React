@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.postTitle {
+  font-family: Roboto;
+  font-size: 20px;
+}
+.titleDateCont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.publisheddate {
+  font-family: Roboto;
+  color: grey;
+  font-size: 15px;
+}
+.listCont {
+  font-family: Roboto;
+  list-style: none;
+}
+.postdescription {
+  font-family: Roboto;
+  font-size: 15px;
+  color: grey;
+}
